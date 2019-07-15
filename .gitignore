@@ -1,0 +1,10 @@
+build
+dist
+__pycache__
+*.egg-info
+.DS_Store
+test_data/coco/
+test_data/imagenet
+test_data/open_image_v4_subset/
+test_data/oxford_17flowers/
+test_data/17flowers.tgz
