@@ -13,7 +13,7 @@
 # limitations under the License.
 
 """A weight imprinting engine that performs low-shot transfer-learning for image classification
-   models.
+models.
 
    For more information about how to use this API and how to create the type of model
    required, see `Retrain an image classification model on-device

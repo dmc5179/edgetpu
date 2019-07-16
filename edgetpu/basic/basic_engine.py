@@ -12,6 +12,8 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
+"""A basic inference engine."""
+
 from edgetpu.swig.edgetpu_cpp_wrapper import BasicEnginePythonWrapper
 
 
