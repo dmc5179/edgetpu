@@ -22,7 +22,7 @@
 .. note::
 
   We updated :class:`ImprintingEngine` in the July 2019 library update (version
-  2.11.2), which requires code changes if you used the previous version. The API changes are
+  2.11.1), which requires code changes if you used the previous version. The API changes are
   as follows:
 
   +   Most importantly, the input model has new architecture requirements. For details,

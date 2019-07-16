@@ -52,8 +52,8 @@ class SoftmaxRegression(object):
     TPU, then running this last layer on the CPU should not significantly affect the inference
     speed.
 
-  For a more technical explanation of softmax, see the
-  `Stanford CS231 exlanation of the softmax classifier
+  For more detail, see the
+  `Stanford CS231 explanation of the softmax classifier
   <http://cs231n.github.io/linear-classify/#softmax>`_.
   """
 
