@@ -4,41 +4,41 @@ License: Attribution 2.0 Generic (CC BY 2.0)
 URL: https://creativecommons.org/licenses/by/2.0/
 
 - face.jpg (1028 * 712)
-  https://storage.googleapis.com/openimages/web/visualizer/index.html?set=train&c=%2Fm%2F0dzct&id=959ec6a16e85dc22
+  https://storage.googleapis.com/openimages/web/visualizer/index.html?set=train&c=%2Fm%2F0dzct&id=959ec6a16e85dc22&type=detection
 
 - cat.bmp (600 * 400), cat_720p.jpg (1080 * 720), cat_1080p.jpg (1920 * 1080)
-  https://storage.googleapis.com/openimages/web/visualizer/index.html?set=train&c=%2Fm%2F01yrx&id=02b4196ce8a0e541
+  https://storage.googleapis.com/openimages/web/visualizer/index.html?set=train&c=%2Fm%2F01yrx&id=02b4196ce8a0e541&type=detection
   The size of original image is 3008 * 2000, we resized it for performance tests.
 
 - pets.jpg (2360 * 1983)
-  https://storage.googleapis.com/openimages/web/visualizer/index.html?set=train&c=%2Fm%2F0bt9lr&id=82270c27bacdcaa4
+  https://storage.googleapis.com/openimages/web/visualizer/index.html?set=train&c=%2Fm%2F0bt9lr&id=82270c27bacdcaa4&type=detection
 
 - hot_dog.jpg (3264 * 2448)
-  https://storage.googleapis.com/openimages/web/visualizer/index.html?set=train&c=%2Fm%2F01b9xk&id=1170c58625bec5dc
+  https://storage.googleapis.com/openimages/web/visualizer/index.html?set=train&c=%2Fm%2F01b9xk&id=1170c58625bec5dc&type=detection
 
 - parrot.jpg (1688 * 3064)
-  https://storage.googleapis.com/openimages/web/visualizer/index.html?set=train&c=%2Fm%2F0gv1x&id=0f3ebab958f44f5f
+  https://storage.googleapis.com/openimages/web/visualizer/index.html?set=train&c=%2Fm%2F0gv1x&id=0f3ebab958f44f5f&type=detection
 
 - owl.jpg (1600 * 1200)
-  https://storage.googleapis.com/openimages/web/visualizer/index.html?set=train&c=%2Fm%2F09d5_&id=165178f034f150ba
+  https://storage.googleapis.com/openimages/web/visualizer/index.html?set=train&c=%2Fm%2F09d5_&id=165178f034f150ba&type=detection
 
 - imprinting/cat_test_0.bmp (1000 * 1500)
-  https://storage.googleapis.com/openimages/web/visualizer/index.html?set=train&c=%2Fm%2F01yrx&id=861217441698b254
+  https://storage.googleapis.com/openimages/web/visualizer/index.html?set=train&c=%2Fm%2F01yrx&id=861217441698b254&type=detection
 
 - imprinting/cat_train_0.bmp (1218 * 1129)
-  https://storage.googleapis.com/openimages/web/visualizer/index.html?set=train&c=%2Fm%2F01yrx&id=a06c29ac93f72e9e
+  https://storage.googleapis.com/openimages/web/visualizer/index.html?set=train&c=%2Fm%2F01yrx&id=a06c29ac93f72e9e&type=detection
 
 - imprinting/dog_test_0.bmp (1024 * 680)
-  https://storage.googleapis.com/openimages/web/visualizer/index.html?set=train&c=%2Fm%2F0bt9lr&id=81b9f6167f421960
+  https://storage.googleapis.com/openimages/web/visualizer/index.html?set=train&c=%2Fm%2F0bt9lr&id=81b9f6167f421960&type=detection
 
 - imprinting/dog_train_0.bmp (1500 * 1000)
-  https://storage.googleapis.com/openimages/web/visualizer/index.html?set=train&c=%2Fm%2F0bt9lr&id=852e7ee93eaded19
+  https://storage.googleapis.com/openimages/web/visualizer/index.html?set=train&c=%2Fm%2F0bt9lr&id=852e7ee93eaded19&type=detection
 
 - imprinting/hotdog_test_0.bmp (1632 * 1224)
-  https://storage.googleapis.com/openimages/web/visualizer/index.html?set=train&c=%2Fm%2F01b9xk&id=4d7133d6aabede44
+  https://storage.googleapis.com/openimages/web/visualizer/index.html?set=train&c=%2Fm%2F01b9xk&id=4d7133d6aabede44&type=detection
 
 - imprinting/hotdog_train_0.bmp (1080 * 1080)
-  https://storage.googleapis.com/openimages/web/visualizer/index.html?set=train&c=%2Fm%2F01b9xk&id=9c60d209eb8efd7a
+  https://storage.googleapis.com/openimages/web/visualizer/index.html?set=train&c=%2Fm%2F01b9xk&id=9c60d209eb8efd7a&type=detection
 
 - imprinting/hotdog_train_1.bmp (1728 * 1152)
-  https://storage.googleapis.com/openimages/web/visualizer/index.html?set=train&c=%2Fm%2F01b9xk&id=ca5a2557b3756d28
+  https://storage.googleapis.com/openimages/web/visualizer/index.html?set=train&c=%2Fm%2F01b9xk&id=ca5a2557b3756d28&type=detection
