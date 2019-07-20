@@ -70,7 +70,7 @@ class MultipleTpusTest(unittest.TestCase):
               0.88)
       print('Thread: %d, done detection task' % tid)
 
-    num_inferences = 10
+    num_inferences = 2000
     t1 = threading.Thread(target=classification_task, args=(num_inferences,))
     t2 = threading.Thread(target=detection_task, args=(num_inferences,))
 
