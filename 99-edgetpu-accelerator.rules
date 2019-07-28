@@ -1,2 +1,6 @@
-SUBSYSTEM=="usb",ATTRS{idVendor}=="1a6e",GROUP="plugdev"
-SUBSYSTEM=="usb",ATTRS{idVendor}=="18d1",GROUP="plugdev"
+SUBSYSTEM=="usb", ACTION=="add", ENV{DEVTYPE}=="usb_device", ATTRS{idVendor}=="1a6e", GROUP="plugdev", RUN+="/bin/device_added.sh", SYMLINK+="edgetpu"
+SUBSYSTEM=="usb", ACTION=="remove", ENV{DEVTYPE}=="usb_device", ATTRS{idVendor}=="1a6e", GROUP="plugdev", RUN+="/bin/device_removed.sh", SYMLINK+="edgetpu"
+
+SUBSYSTEM=="usb", ACTION=="add", ENV{DEVTYPE}=="usb_device", ATTRS{idVendor}=="18d1", GROUP="plugdev", RUN+="/bin/device_added.sh", SYMLINK+="edgetpu"
+SUBSYSTEM=="usb", ACTION=="remove", ENV{DEVTYPE}=="usb_device", ATTRS{idVendor}=="18d1", GROUP="plugdev", RUN+="/bin/device_removed.sh", SYMLINK+="edgetpu"
+
